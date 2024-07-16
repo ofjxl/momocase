@@ -1,0 +1,3 @@
+@media screen and (max-width:1400px) {
+    header .h_left, header .h_right {display: none;}
+}
